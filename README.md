@@ -6,7 +6,7 @@
 
 The analysis focuses on job postings from 2023 and investigates the relationship between **salary, skill demand, and technical specialization**.
 
-🔍 All SQL queries used for the analysis are available in the [`project_sql`](project_sql) folder.
+🔍 All SQL queries used for the analysis are available in the [`project_sql`](project) folder.
 
 ## Background
 
