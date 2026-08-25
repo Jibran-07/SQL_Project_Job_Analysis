@@ -1,6 +1,3 @@
-Absolutely — you want the **actual Markdown source**, not a downloadable file or rendered/plain-text version.
-
-````markdown
 # Data Scientist Job Market Analysis in Madrid, Spain
 
 ## Introduction
